@@ -1,0 +1,2258 @@
+[
+  {
+    "name": "King Karambit",
+    "id": "001",
+    "value": 45000000,
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/King_Karambit_Knife.png"
+  },
+  {
+    "name": "Cyan Karambit",
+    "id": "002",
+    "value": 3000000,
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/128x128/dahood/Skins/King_Karambit_Knife.png"
+  },
+  {
+    "name": "GPO Prestige Knife",
+    "id": "003",
+    "value": "520,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/GPO_Prestige_Knife.png"
+  },
+  {
+    "name": "RGB Dual Bayonets",
+    "id": "004",
+    "value": "480,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/RGB_Karambit_Knife.png"
+  },
+  {
+    "name": "GPO Prestige Revolver",
+    "id": "005",
+    "value": "390,000",
+    "demand": "Hype",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/GPO_Prestige_Revolver.png"
+  },
+  {
+    "name": "Hers",
+    "id": "006",
+    "value": "340,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Hers_Knife.png"
+  },
+  {
+    "name": "Green Blaze",
+    "id": "007",
+    "value": "290,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Green_Blaze_Knife.png"
+  },
+  {
+    "name": "Purple Blaze",
+    "id": "008",
+    "value": "325,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/128x128/dahood/Skins/Purple_Blaze_Knife.png"
+  },
+  {
+    "name": "Red Blaze",
+    "id": "009",
+    "value": "274,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/0ec79df6-125c-4f9b-96b9-d090a2e4a3fc/e9f8a290-a1bf-4ce2-aba6-d30697d22d0b/640x640.webp"
+  },
+  {
+    "name": "Blue Blaze",
+    "id": "010",
+    "value": "240,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Blue_Blaze_Knife.png"
+  },
+  {
+    "name": "Galaxy Knife",
+    "id": "011",
+    "value": "220,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Galaxy_Knife.png"
+  },
+  {
+    "name": "His",
+    "id": "012",
+    "value": "340,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/His_Knife.png"
+  },
+  {
+    "name": "Golden Age Tanto",
+    "id": "013",
+    "value": "117,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Golden_Age_Tanto_Knife.png"
+  },
+  {
+    "name": "Iced Out Knife",
+    "id": "014",
+    "value": "40,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/64f41b7d-7a8d-46e9-b219-a55e7ec33e56/83695209-e6b3-415b-a620-b72a45a9f92b/640x640.webp"
+  },
+  {
+    "name": "Reptile",
+    "id": "015",
+    "value": "37,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Reptile_Knife.png"
+  },
+  {
+    "name": "Love Kukri Knife",
+    "id": "016",
+    "value": "35,000",
+    "demand": "High",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Love_Kukri_Knife.png"
+  },
+  {
+    "name": "Galatic Red",
+    "id": "017",
+    "value": "29,500",
+    "demand": "High",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Galactic_Red_Knife.png"
+  },
+  {
+    "name": "Heaven",
+    "id": "018",
+    "value": "28,000",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Heaven_Knife.png"
+  },
+  {
+    "name": "Dual Bayonets",
+    "id": "019",
+    "value": "22,500",
+    "demand": "High",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Dual_Bayonets_Knife.png"
+  },
+  {
+    "name": "Wild West",
+    "id": "020",
+    "value": "20,000",
+    "demand": "High",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Wild_West_Knife.png"
+  },
+  {
+    "name": "GPO Knife",
+    "id": "021",
+    "value": "19,500",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/3b9a9e79-029f-4942-90a9-9bc35c154298/fc451c80-a0a6-4f25-ac54-8e78ffc9c680/640x640.webp"
+  },
+  {
+    "name": "Dragon Knife",
+    "id": "022",
+    "value": "11,000",
+    "demand": "High",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Dragon_Knife.png"
+  },
+  {
+    "name": "Galatic Knife",
+    "id": "023",
+    "value": "8,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Galactic_Knife.png"
+  },
+  {
+    "name": "Shadow Knife",
+    "id": "024",
+    "value": "8,000",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Shadow_Knife.png"
+  },
+  {
+    "name": "Void Knife",
+    "id": "025",
+    "value": "6,000",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Void_Knife.png"
+  },
+  {
+    "name": "Raygun Knife",
+    "id": "026",
+    "value": "6,000",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Raygun_Knife.png"
+  },
+  {
+    "name": "RGB Butterfly Knife",
+    "id": "027",
+    "value": "5,000",
+    "demand": "Low",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/19a2bf03-ba97-4a32-acbc-517b100d9631/fb27187a-69db-47fa-bc3d-f965a546c772/640x640.webp"
+  },
+  {
+    "name": "Cutesy",
+    "id": "028",
+    "value": "4,250",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cutesy_Knife.png"
+  },
+  {
+    "name": "Golden Knife",
+    "id": "029",
+    "value": "4,000",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/d6c04a88-3908-40f1-9f09-b710d89f4651/218be1fe-678a-48b2-b578-8c72bea26744/640x640.webp"
+  },
+  {
+    "name": "Cartoon Knife",
+    "id": "030",
+    "value": "3,750",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:692edec1-2e56-41bb-9b80-74b9e321abe0/e71363bc-f5bb-41c2-86bb-e09f210beb55/4fcd1f5d-21e0-4935-8f23-c8fe320e032f/640x640.webp"
+  },
+  {
+    "name": "Wireframe Knife",
+    "id": "031",
+    "value": "3,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Wireframe_Knife.png"
+  },
+  {
+    "name": "Soul Knife",
+    "id": "032",
+    "value": "3,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Soul_Knife.png"
+  },
+  {
+    "name": "Emerald Bayonet",
+    "id": "033",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Emerald_Bayonet_Knife.png"
+  },
+  {
+    "name": "Unicorn Knife",
+    "id": "034",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/dcbd0829-67f0-4afe-87d6-44eeffa93f59/0f120846-94e6-4f5f-8f26-5d997580b307/640x640.webp"
+  },
+  {
+    "name": "Fantasy Knife",
+    "id": "035",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Fantasy_Knife.png"
+  },
+  {
+    "name": "Candy Knife",
+    "id": "036",
+    "value": "2,750",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Candy_Knife.png"
+  },
+  {
+    "name": "Military Knife",
+    "id": "037",
+    "value": "2,750",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/c9f5d340-668d-45ca-a7b5-2bec395a6618/755b9d1c-e6fa-4ef2-90dd-6fb2410beed9/640x640.webp"
+  },
+  {
+    "name": "Xmas Knife",
+    "id": "038",
+    "value": "2,750",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Xmas_Knife.png"
+  },
+  {
+    "name": "Portal Knife",
+    "id": "039",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:692edec1-2e56-41bb-9b80-74b9e321abe0/74018c64-149f-422d-a673-020a4efb259d/58cf733d-58d0-4d57-b61f-5b6ee12ea7fa/640x640.webp"
+  },
+  {
+    "name": "Spooky Knife",
+    "id": "040",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Spooky_Knife.png"
+  },
+  {
+    "name": "Ethereal Knife",
+    "id": "041",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Ethereal_Knife.png"
+  },
+  {
+    "name": "Halloween Knife",
+    "id": "042",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Halloween_Knife.png"
+  },
+  {
+    "name": "Duck Knife",
+    "id": "043",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Duck_Knife.png"
+  },
+  {
+    "name": "Mystical Knife",
+    "id": "044",
+    "value": "2,500",
+    "demand": "Hype",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Mystical_Knife.png"
+  },
+  {
+    "name": "Undead Knife",
+    "id": "045",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Undead_Knife.png"
+  },
+  {
+    "name": "Frozen Knife",
+    "id": "046",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Frozen_Knife.png"
+  },
+  {
+    "name": "Ruby Knife",
+    "id": "047",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Ruby_Knife.png"
+  },
+  {
+    "name": "Gothic Knife",
+    "id": "048",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Gothic_Knife.png"
+  },
+  {
+    "name": "Love Knife",
+    "id": "049",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:b4d55fc0-4ba9-4df9-bbe0-546b1fe2ec2d/b565c18d-0ae3-43b1-8a2d-fe8ea56e5232/cea9d2ce-75ef-4a75-989c-0048513445b1/640x640.webp"
+  },
+  {
+    "name": "Cupid Knife",
+    "id": "050",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:692edec1-2e56-41bb-9b80-74b9e321abe0/3cf0dd17-6190-4d05-9954-debe6549cbe8/56de8fe9-c3e0-4ee4-9722-29a80824d153/640x640.webp"
+  },
+  {
+    "name": "Toon Knife",
+    "id": "051",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://tr.rbxcdn.com/180DAY-73778b0852d395e40396d92b9d47675f/420/420/WaistAccessory/Webp/noFilter"
+  },
+  {
+    "name": "Spatula",
+    "id": "052",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Spatula_Knife.png"
+  },
+  {
+    "name": "Metal Knife",
+    "id": "053",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Metal_Knife.png"
+  },
+  {
+    "name": "Penguin Knife",
+    "id": "054",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/28ce010f-1383-4b4d-93ad-4f4162a788b0/cf202b8a-b6b8-4cfc-ade5-0912de9f3868/640x640.webp"
+  },
+  {
+    "name": "Aqua Knife",
+    "id": "055",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": ""
+  },
+  {
+    "name": "GPO 2",
+    "id": "056",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/667590a8-f269-4897-a865-64e0d370f25c/9dcc6a57-9fcb-4c34-b859-c024fff91b1d/640x640.webp"
+  },
+  {
+    "name": "Butterfly Knife",
+    "id": "057",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Beary_Knife.png"
+  },
+  {
+    "name": "Shrimp Knife",
+    "id": "058",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Shrimp_Knife.png"
+  },
+  {
+    "name": "Cat Knife",
+    "id": "059",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/f6c66810-edba-4de8-8610-59992a5c1ecb/00357ee4-a997-4781-90ea-feb0e659bc20/640x640.webp"
+  },
+  {
+    "name": "Vip Knife",
+    "id": "060",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/VIP_Knife.png"
+  },
+  {
+    "name": "Short Cake Knife",
+    "id": "061",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Short_Cake_Knife.png"
+  },
+  {
+    "name": "Beary Knife",
+    "id": "062",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Beary_Knife.png"
+  },
+  {
+    "name": "Grumpy Knife",
+    "id": "063",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": ""
+  },
+  {
+    "name": "Video Game Knife",
+    "id": "064",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:43698801-c21a-4d1f-beff-ed5882ef9029/e5d3eb5f-c5c1-4189-8746-44be442fcd7a/e24240f6-8ccf-4f49-9fa8-afc18638e28f/640x640.webp"
+  },
+  {
+    "name": "Bat Sharp Knife",
+    "id": "065",
+    "value": "1,950",
+    "demand": "Normal",
+    "category": "Knife",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Bat_Sharp_Knife.png"
+  },
+  {
+    "name": "Golden Age Revolver",
+    "id": "066",
+    "value": "62,000",
+    "demand": "Hype",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Golden_Age_Revolver.png"
+  },
+  {
+    "name": "Galaxy Revolver",
+    "id": "067",
+    "value": "31,000",
+    "demand": "Hype",
+    "category": "Revolver",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:8010ad69-2c6a-4f6d-8aad-e2c4731e6867/93b47d0d-26cd-41ee-abdd-7bdf591c8c29/b6c64bad-dba1-4689-adb9-f138bf8966a6/640x640.webp"
+  },
+  {
+    "name": "Reptile Revolver",
+    "id": "068",
+    "value": "26,000",
+    "demand": "Hype",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Reptile_Revolver.png"
+  },
+  {
+    "name": "Ice Out Revolver",
+    "id": "069",
+    "value": "26,000",
+    "demand": "Hype",
+    "category": "Revolver",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:9779de72-0243-46eb-8e46-e9fafc2032aa/93311bb5-5fcc-490a-a68a-03fa190331c4/f44ed6ab-e411-4927-9a45-750fe6c09310/640x640.webp"
+  },
+  {
+    "name": "Web Hero III",
+    "id": "070",
+    "value": "26,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Web_Hero_III_Revolver.png"
+  },
+  {
+    "name": "Ninja Revolver",
+    "id": "071",
+    "value": "26,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://i.ebayimg.com/images/g/9MUAAOSwcfZnfrWB/s-l400.jpg"
+  },
+  {
+    "name": "Wild West Revolver",
+    "id": "072",
+    "value": "26,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Wild_West_Revolver.png"
+  },
+  {
+    "name": "Web Hero II",
+    "id": "073",
+    "value": "25,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Web_Hero_II_Revolver.png"
+  },
+  {
+    "name": "Raygun Revolver",
+    "id": "074",
+    "value": "22,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Raygun_Revolver.png"
+  },
+  {
+    "name": "Heaven Revolver",
+    "id": "075",
+    "value": "20,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Heaven_Revolver.png"
+  },
+  {
+    "name": "Christmas Wrap Revolver",
+    "id": "076",
+    "value": "20,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Christmas_Wrap_Revolver.png"
+  },
+  {
+    "name": "Dragon Revolver",
+    "id": "077",
+    "value": "10,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Dragon_Revolver.png"
+  },
+  {
+    "name": "Inferno Revolver",
+    "id": "078",
+    "value": "9,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:8fb3bc85-890e-4a65-8673-f61bb1f3b945/766586b6-1842-4d16-951e-660430255727/3edf3ce6-359b-4814-99d6-5b4b58d6e2e1/640x640.webp"
+  },
+  {
+    "name": "Electric Revolver",
+    "id": "079",
+    "value": "9,500",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a03be80a-4c69-4686-8766-f536771b79ad/f4d0516c-0b36-404c-a031-d4c290e727e5/bf1a11d4-22e9-4461-9fc5-1d7b7614317b/640x640.webp"
+  },
+  {
+    "name": "Luck Revolver",
+    "id": "080",
+    "value": "9,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Luck_Revolver.png"  
+  },
+  {
+    "name": "Void Revolver",
+    "id": "081",
+    "value": "8,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Void_Revolver.png"  
+  },
+  {
+    "name": "Valentine Revolver",
+    "id": "082",
+    "value": "7,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://production-gameflipusercontent.fingershock.com/us-east-1:a51bc7e2-ce1a-4310-ba54-a2879796be82/db879d58-944a-476b-94e1-9872b95650f0/775051a9-51be-4eb1-af7b-a59d9721f350/640x640.webp"
+  },
+  {
+    "name": "Blue Wrap Revolver",
+    "id": "083",
+    "value": "6,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Blue_Wrap_Revolver.png" 
+  },
+  {
+    "name": "Shadow Revolver",
+    "id": "084",
+    "value": "6,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Shadow_Revolver.png" 
+  },
+  {
+    "name": "Thunder II Revolver",
+    "id": "085",
+    "value": "5,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Thunder_II_Revolver.png" 
+  },
+  {
+    "name": "Rainbow Revolver",
+    "id": "086",
+    "value": "4,500",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Rainbow_Revolver.png" 
+  },
+  {
+    "name": "Patriot Revolver",
+    "id": "087",
+    "value": "4,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Patriot_Revolver.png" 
+  },
+  {
+    "name": "Red Skull Revolver",
+    "id": "088",
+    "value": "4,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Skull_Revolver.png"
+  },
+  {
+    "name": "Red Hot Revolver",
+    "id": "089",
+    "value": "4,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Hot_Revolver.png" 
+  },
+  {
+    "name": "Undead Revolver",
+    "id": "090",
+    "value": "4,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Undead_Revolver.png" 
+  },
+  {
+    "name": "GPO II Revolver",
+    "id": "091",
+    "value": "4,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/GPO_II_Revolver.png"  
+  },
+  {
+    "name": "Tact Revolver",
+    "id": "092",
+    "value": "3,750",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Tact_Revolver.png"  
+  },
+  {
+    "name": "Water Revolver",
+    "id": "093",
+    "value": "3,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Water_Revolver.png"  
+  },
+  {
+    "name": "Hero Revolver",
+    "id": "094",
+    "value": "3,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Hero_Revolver.png"
+  },
+  {
+    "name": "Blaze",
+    "id": "095",
+    "value": "3,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Blaze_Revolver.png" 
+  },
+  {
+    "name": "Cartoon Revolver",
+    "id": "096",
+    "value": "3,500",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cartoon_Revolver.png" 
+  },
+  {
+    "name": "Toy Revolver",
+    "id": "097",
+    "value": "3,250",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Toy_Revolver.png"
+  },
+  {
+    "name": "Cutesy Revolver",
+    "id": "098",
+    "value": "3,250",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cutesy_Revolver.png"
+  },
+  {
+    "name": "Spectre Revolver",
+    "id": "099",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Spectre_Revolver.png"
+  },
+  {
+    "name": "Snow Wrap Revolver",
+    "id": "100",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Snow_Wrap_Revolver.png"
+  },
+  {
+    "name": "8BIT Revolver",
+    "id": "101",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/8BIT_Revolver.png"  
+  },
+  {
+    "name": "Matrix Revolver",
+    "id": "102",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Matrix_Revolver.png"  
+  },
+  {
+    "name": "Wireframe Revolver",
+    "id": "103",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Wireframe_Revolver.png"
+  },
+  {
+    "name": "Wrapped Revolver",
+    "id": "104",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Wrapped_Revolver.png" 
+  },
+  {
+    "name": "Candy Revolver",
+    "id": "105",
+    "value": "2,750",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Candy_Revolver.png" 
+  },
+  {
+    "name": "Military Revolver",
+    "id": "106",
+    "value": "2,750",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Military_Revolver.png"
+  },
+  {
+    "name": "Cat Revolver",
+    "id": "107",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cat_Revolver.png"  
+  },
+  {
+    "name": "Fantasy Revolver",
+    "id": "108",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Fantasy_Revolver.png"  
+  },
+  {
+    "name": "Halloween Revolver",
+    "id": "109",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Halloween_Revolver.png"  
+  },
+  {
+    "name": "Frozen Revolver",
+    "id": "110",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Frozen_Revolver.png"
+  },
+  {
+    "name": "Portal Revolver",
+    "id": "111",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Portal_Revolver.png"   
+  },
+  {
+    "name": "Spooky Revolver",
+    "id": "112",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Spooky_Revolver.png"   
+  },
+  {
+    "name": "Ethereal Revolver",
+    "id": "113",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Ethereal_Revolver.png"   
+  },
+  {
+    "name": "Ruby Revolver",
+    "id": "114",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Ruby_Revolver.png"
+  },
+  {
+    "name": "Gothic Revolver",
+    "id": "115",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Gothic_Revolver.png" 
+  },
+  {
+    "name": "Love Revolver",
+    "id": "116",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Love_Revolver.png" 
+  },
+  {
+    "name": "Toon Revolver",
+    "id": "117",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Toon_Revolver.png" 
+  },
+  {
+    "name": "Unicorn Revolver",
+    "id": "118",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Unicorn_Revolver.png"
+  },
+  {
+    "name": "Penguin Revolver",
+    "id": "119",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Penguin_Revolver.png" 
+  },
+  {
+    "name": "Metal Revolver",
+    "id": "120",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Metal_Revolver.png" 
+  },
+  {
+    "name": "Mystical Revolver",
+    "id": "121",
+    "value": "2,500",
+    "demand": "Hype",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Mystical_Revolver.png"
+  },
+  {
+    "name": "Xmas Revolver",
+    "id": "122",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Xmas_Revolver.png"
+  },
+  {
+    "name": "Cupid Revolver",
+    "id": "123",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cupid_Revolver.png"
+  },
+  {
+    "name": "Soul Revolver",
+    "id": "124",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Soul_Revolver.png"
+  },
+  {
+    "name": "VideoGame Revolver",
+    "id": "125",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/VideoGame_Revolver.png"  
+  },
+  {
+    "name": "Aqua Revolver",
+    "id": "126",
+    "value": "2,250",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Aqua_Revolver.png"  
+  },
+  {
+    "name": "Gold Glory Revolver",
+    "id": "127",
+    "value": "2,000",
+    "demand": "High",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Gold_Glory_Revolver.png"
+  },
+  {
+    "name": "Duck Revolver",
+    "id": "128",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Duck_Revolver.png" 
+  },
+  {
+    "name": "Blossom Revolver",
+    "id": "129",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Blossom_Revolver.png" 
+  },
+  {
+    "name": "Beary Revolver",
+    "id": "130",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Beary_Revolver.png"
+  },
+  {
+    "name": "Short Cake Revolver",
+    "id": "131",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Short_Cake_Revolver.png"
+  },
+  {
+    "name": "Vip Revolver",
+    "id": "132",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/VIP_Revolver.png"
+  },
+  {
+    "name": "Butterfly Revolver",
+    "id": "133",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Butterfly_Revolver.png"
+  },
+  {
+    "name": "Grumpy Revolver",
+    "id": "134",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Grumpy_Revolver.png"
+  },
+  {
+    "name": "Purple Yellow Wrap Revolver",
+    "id": "135",
+    "value": "2,000",
+    "demand": "Terrible",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Purple_Yellow_Wrap_Revolver.png"
+  },
+  {
+    "name": "Biohazard Revolver",
+    "id": "136",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Biohazard_Revolver.png"
+  },
+  {
+    "name": "Arcade Revolver",
+    "id": "137",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Arcade_Revolver.png"
+  },
+  {
+    "name": "Shrimp Revolver",
+    "id": "138",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Shrimp_Revolver.png"  
+  },
+  {
+    "name": "Pink Fuchsia Revolver",
+    "id": "139",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Pink_Fuchsia_Revolver.png"  
+  },
+  {
+    "name": "Emerald Revolver",
+    "id": "140",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Emerald_Revolver.png"
+  },
+  {
+    "name": "Nightmare Revolver",
+    "id": "141",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Nightmare_Revolver.png"
+  },
+  {
+    "name": "Christmas Wrap Tactical",
+    "id": "142",
+    "value": "20,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Christmas_Wrap_Tactical_SG.png"
+  },
+  {
+    "name": "Galaxy Tactical",
+    "id": "143",
+    "value": "19,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Galaxy_Tactical_SG.png"
+  },
+  {
+    "name": "Electric Tactical",
+    "id": "144",
+    "value": "13,500",
+    "demand": "High",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Electric_Tactical_SG.png"
+  },
+  {
+    "name": "Inferno Tactical",
+    "id": "145",
+    "value": "7,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Inferno_Tactical_SG.png"
+  },
+  {
+    "name": "Luck Tactical",
+    "id": "146",
+    "value": "7,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Luck_Tactical_SG.png"
+  },
+  {
+    "name": "Void Tactical",
+    "id": "147",
+    "value": "6,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Void_Tactical_SG.png"
+  },
+  {
+    "name": "Blue Wrap Tactical",
+    "id": "148",
+    "value": "6,000",
+    "demand": "Low",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Blue_Wrap_Tactical_SG.png"
+  },
+  {
+    "name": "Valentine Tactical",
+    "id": "149",
+    "value": "5,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Valentine_Tactical_SG.png"
+  },
+  {
+    "name": "Shadow Tactical",
+    "id": "150",
+    "value": "5,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Shadow_Tactical_SG.png"
+  },
+  {
+    "name": "Snow Wrap Tactical",
+    "id": "150",
+    "value": "3,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Snow_Wrap_Tactical_SG.png"
+  },
+  {
+    "name": "Rainbow Tactical",
+    "id": "151",
+    "value": "3,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Rainbow_Tactical_SG.png"
+  },
+  {
+    "name": "GPO Tactical",
+    "id": "152",
+    "value": "3,000",
+    "demand": "High",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/GPO_Tactical_SG.png"
+  },
+  {
+    "name": "Patriot Tactical",
+    "id": "153",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Patriot_Tactical_SG.png"
+  },
+  {
+    "name": "Red Hot Tactical",
+    "id": "154",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Hot_Tactical_SG.png"
+  },
+  {
+    "name": "Galactic Tactical",
+    "id": "155",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Galactic_Tactical_SG.png"
+  },
+  {
+    "name": "Tact Tactical",
+    "id": "156",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Tact_Tactical_SG.png"
+  },
+  {
+    "name": "Military Tactical",
+    "id": "157",
+    "value": "2,750",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Military_Tactical_SG.png"
+  },
+  {
+    "name": "Cutesy Tactical",
+    "id": "158",
+    "value": "2,500",
+    "demand": "High",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cutesy_Tactical_SG.png"
+  },
+  {
+    "name": "Water Tactical",
+    "id": "159",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Water_Tactical_SG.png"
+  },
+  {
+    "name": "Halloween Tactical",
+    "id": "160",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Halloween_Tactical_SG.png"
+  },
+  {
+    "name": "Matrix Tactical",
+    "id": "161",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Matrix_Tactical_SG.png"
+  },
+  {
+    "name": "Frozen Tactical",
+    "id": "162",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Frozen_Tactical_SG.png"
+  },
+  {
+    "name": "Portal Tactical",
+    "id": "163",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Portal_Tactical_SG.png"
+  },
+  {
+    "name": "Spooky Tactical",
+    "id": "164",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Spooky_Tactical_SG.png"
+  },
+  {
+    "name": "Soul Tactical",
+    "id": "165",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Soul_Tactical_SG.png"
+  },
+  {
+    "name": "Unicorn Tactical",
+    "id": "166",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Unicorn_Tactical_SG.png"
+  },
+  {
+    "name": "Love Tactical",
+    "id": "167",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Love_Tactical_SG.png"
+  },
+  {
+    "name": "Gold Glory Tactical",
+    "id": "168",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Gold_Glory_Tactical_SG.png"
+  },
+  {
+    "name": "Purple Yellow Wrap Tactical",
+    "id": "169",
+    "value": "2,000",
+    "demand": "Terrible",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Purple_Yellow_Wrap_Tactical_SG.png"
+  },
+  {
+    "name": "Undead Tactical",
+    "id": "170",
+    "value": "1,900",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Undead_Tactical_SG.png"
+  },
+  {
+    "name": "Icey Tactical",
+    "id": "171",
+    "value": "1,600",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Icey_Tactical_SG.png"
+  },
+  {
+    "name": "Red Tiger Tactical",
+    "id": "172",
+    "value": "1,600",
+    "demand": "Low",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Tiger_Tactical_SG.png"
+  },
+  {
+    "name": "Glassy Tactical",
+    "id": "173",
+    "value": "1,600",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Glassy_Tactical_SG.png"
+  },
+  {
+    "name": "Biohazard Tactical",
+    "id": "174",
+    "value": "1,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Biohazard_Tactical_SG.png"
+  },
+  {
+    "name": "Pink Fuchsia Tactical",
+    "id": "175",
+    "value": "1,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Pink_Fuchsia_Tactical_SG.png"
+  },
+  {
+    "name": "Golden Age DB",
+    "id": "176",
+    "value": "47,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Golden_Age_Double_Barrel.png"
+  },
+  {
+    "name": "Galaxy DB",
+    "id": "177",
+    "value": "30,000",
+    "demand": "Hype",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Galaxy_Double_Barrel.png"
+  },
+  {
+    "name": "Iced Out DB",
+    "id": "178",
+    "value": "26,000",
+    "demand": "Hype",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Iced_Out_Double_Barrel.png"
+  },
+  {
+    "name": "Reptile DB",
+    "id": "179",
+    "value": "26,000",
+    "demand": "Hype",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Reptile_Double_Barrel.png"
+  },
+  {
+    "name": "Wild West DB",
+    "id": "180",
+    "value": "25,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Wild_West_Double_Barrel.png"
+  },
+  {
+    "name": "Ninja DB",
+    "id": "181",
+    "value": "23,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Ninja_Double_Barrel.png"
+  },
+  {
+    "name": "Christmas Wrap DB",
+    "id": "182",
+    "value": "20,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Christmas_Wrap_Double_Barrel.png"
+  },
+  {
+    "name": "Heaven DB",
+    "id": "183",
+    "value": "18,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Heaven_Double_Barrel.png"
+  },
+  {
+    "name": "Electric DB",
+    "id": "184",
+    "value": "12,500",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Electric_Double_Barrel.png"
+  },
+  {
+    "name": "Dragon DB",
+    "id": "185",
+    "value": "10,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Dragon_Double_Barrel.png"
+  },
+  {
+    "name": "Luck DB",
+    "id": "186",
+    "value": "9,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Luck_Double_Barrel.png"
+  },
+  {
+    "name": "Inferno DB",
+    "id": "187",
+    "value": "8,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Inferno_Double_Barrel.png"
+  },
+  {
+    "name": "Magma DB",
+    "id": "188",
+    "value": "7,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Magma_Double_Barrel.png"
+  },
+  {
+    "name": "Blue Wrap DB",
+    "id": "189",
+    "value": "6,000",
+    "demand": "Low",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Blue_Wrap_Double_Barrel.png"
+  },
+  {
+    "name": "Valentine DB",
+    "id": "190",
+    "value": "6,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Valentine_Double_Barrel.png"
+  },
+  {
+    "name": "Shadow DB",
+    "id": "191",
+    "value": "5,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Shadow_Double_Barrel.png"
+  },
+  {
+    "name": "Fish DB",
+    "id": "192",
+    "value": "4,500",
+    "demand": "Hype",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Shadow_Double_Barrel.png"
+  },
+  {
+    "name": "Rainbow DB",
+    "id": "193",
+    "value": "4,500",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Rainbow_Double_Barrel.png"
+  },
+  {
+    "name": "Red Skull DB",
+    "id": "194",
+    "value": "4,250",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Skull_Double_Barrel.png"
+  },
+  {
+    "name": "Patriot DB",
+    "id": "195",
+    "value": "4,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Patriot_Double_Barrel.png"
+  },
+  {
+    "name": "Red Hot DB",
+    "id": "196",
+    "value": "4,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Hot_Double_Barrel.png"
+  },
+  {
+    "name": "Tact DB",
+    "id": "197",
+    "value": "3,750",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Tact_Double_Barrel.png"
+  },
+  {
+    "name": "Cartoon DB",
+    "id": "198",
+    "value": "3,500",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cartoon_Double_Barrel.png"
+  },
+  {
+    "name": "Cutesy DB",
+    "id": "199",
+    "value": "3,250",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cutesy_Double_Barrel.png"
+  },
+  {
+    "name": "8BIT DB",
+    "id": "200",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/8BIT_Double_Barrel.png"
+  },
+  {
+    "name": "Water DB",
+    "id": "201",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Water_Double_Barrel.png"
+  },
+  {
+    "name": "Mystical DB",
+    "id": "202",
+    "value": "3,000",
+    "demand": "Hype",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Mystical_Double_Barrel.png"
+  },
+  {
+    "name": "Toy DB",
+    "id": "203",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Toy_Double_Barrel.png"
+  },
+  {
+    "name": "Snow Wrap DB",
+    "id": "204",
+    "value": "3,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Snow_Wrap_Double_Barrel.png"
+  },
+  {
+    "name": "Wireframe DB",
+    "id": "205",
+    "value": "3,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Wireframe_Double_Barrel.png"
+  },
+  {
+    "name": "Red Death Tactical",
+    "id": "206",
+    "value": "1,500",
+    "demand": "Normal",
+    "category": "Tactical SG",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Death_Tactical_SG.png"
+  },
+  {
+    "name": "Military DB",
+    "id": "207",
+    "value": "2,750",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Military_Double_Barrel.png"
+  },
+  {
+    "name": "Candy DB",
+    "id": "208",
+    "value": "2,750",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Candy_Double_Barrel.png"
+  },
+  {
+    "name": "Matrix DB",
+    "id": "209",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Matrix_Double_Barrel.png"
+  },
+  {
+    "name": "DH Stars DB",
+    "id": "210",
+    "value": "2,500",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/DH_STARS_Double_Barrel.png"
+  },
+  {
+    "name": "Soul DB",
+    "id": "211",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Soul_Double_Barrel.png"
+  },
+  {
+    "name": "Videogame DB",
+    "id": "212",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/VideoGame_Double_Barrel.png"
+  },
+  {
+    "name": "Fantasy DB",
+    "id": "213",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Fantasy_Double_Barrel.png"
+  },
+  {
+    "name": "Halloween DB",
+    "id": "214",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Halloween_Double_Barrel.png"
+  },
+  {
+    "name": "Undead DB",
+    "id": "215",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Undead_Double_Barrel.png"
+  },
+  {
+    "name": "Frozen DB",
+    "id": "216",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Frozen_Double_Barrel.png"
+  },
+  {
+    "name": "Xmas DB",
+    "id": "217",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Xmas_Double_Barrel.png"
+  },
+  {
+    "name": "Portal DB",
+    "id": "218",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Portal_Double_Barrel.png"
+  },
+  {
+    "name": "Spooky DB",
+    "id": "219",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Spooky_Double_Barrel.png"
+  },
+  {
+    "name": "Ethereal DB",
+    "id": "220",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Ethereal_Double_Barrel.png"
+  },
+  {
+    "name": "Ruby DB",
+    "id": "221",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Ruby_Double_Barrel.png"
+  },
+  {
+    "name": "Gothic DB",
+    "id": "222",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Gothic_Double_Barrel.png"
+  },
+  {
+    "name": "Love DB",
+    "id": "223",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Love_Double_Barrel.png"
+  },
+  {
+    "name": "Cupid DB",
+    "id": "224",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cupid_Double_Barrel.png"
+  },
+  {
+    "name": "Toon DB",
+    "id": "225",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Toon_Double_Barrel.png"
+  },
+  {
+    "name": "Cat DB",
+    "id": "226",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Cat_Double_Barrel.png"
+  },
+  {
+    "name": "Penguin DB",
+    "id": "227",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Penguin_Double_Barrel.png"
+  },
+  {
+    "name": "Metal DB",
+    "id": "228",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Metal_Double_Barrel.png"
+  },
+  {
+    "name": "Unicorn DB",
+    "id": "229",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Unicorn_Double_Barrel.png"
+  },
+  {
+    "name": "Aqua DB",
+    "id": "230",
+    "value": "2,250",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "hhttps://cdn.nookazon.com/dahood/Skins/Aqua_Double_Barrel.png"
+  },
+  {
+    "name": "Hero DB",
+    "id": "231",
+    "value": "2,000",
+    "demand": "Low",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Hero_Double_Barrel.png"
+  },
+  {
+    "name": "Pink Fuchsia DB",
+    "id": "232",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Pink_Fuchsia_Double_Barrel.png"
+  },
+  {
+    "name": "Shrimp DB",
+    "id": "233",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Shrimp_Double_Barrel.png"
+  },
+  {
+    "name": "Nightmare DB",
+    "id": "234",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Nightmare_Double_Barrel.png"
+  },
+  {
+    "name": "Grumpy DB",
+    "id": "235",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Grumpy_Double_Barrel.png"
+  },
+  {
+    "name": "Gold Glory DB",
+    "id": "236",
+    "value": "2,000",
+    "demand": "High",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Gold_Glory_Double_Barrel.png"
+  },
+  {
+    "name": "Duck DB",
+    "id": "237",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Duck_Double_Barrel.png"
+  },
+  {
+    "name": "Butterfly DB",
+    "id": "238",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Butterfly_Double_Barrel.png"
+  },
+  {
+    "name": "GPO II DB",
+    "id": "239",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/GPO_II_Double_Barrel.png"
+  },
+  {
+    "name": "Biohazard DB",
+    "id": "240",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Biohazard_Double_Barrel.png"
+  },
+  {
+    "name": "Arcade DB",
+    "id": "241",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Arcade_Double_Barrel.png"
+  },
+  {
+    "name": "Short Cake DB",
+    "id": "242",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Short_Cake_Double_Barrel.png"
+  },
+  {
+    "name": "Purple Yellow Wrap DB",
+    "id": "243",
+    "value": "2,000",
+    "demand": "Terrible",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Purple_Yellow_Wrap_Double_Barrel.png"
+  },
+  {
+    "name": "Beary DB",
+    "id": "244",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Beary_Double_Barrel.png"
+  },
+  {
+    "name": "Blossom DB",
+    "id": "245",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Blossom_Double_Barrel.png"
+  },
+  {
+    "name": "Emerald DB",
+    "id": "246",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Emerald_Double_Barrel.png"
+  },
+  {
+    "name": "Glassy DB",
+    "id": "247",
+    "value": "1,800",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Glassy_Double_Barrel.png"
+  },
+  {
+    "name": "Icey DB",
+    "id": "248",
+    "value": "1,800",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Icey_Double_Barrel.png"
+  },
+  {
+    "name": "Red Tiger DB",
+    "id": "249",
+    "value": "1,800",
+    "demand": "Low",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Tiger_Double_Barrel.png"
+  },
+  {
+    "name": "Galaxy Shotgun",
+    "id": "250",
+    "value": "5,000",
+    "demand": "High",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Galaxy_Shotgun.png"
+  },
+  {
+    "name": "Christmas Wrap Shotgun",
+    "id": "251",
+    "value": "4,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Christmas_Wrap_Shotgun.png"
+  },
+  {
+    "name": "Red Hot Shotgun",
+    "id": "252",
+    "value": "3,500",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Hot_Shotgun.png"
+  },
+  {
+    "name": "Electric Shotgun",
+    "id": "253",
+    "value": "2,700",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Electric_Shotgun.png"
+  },
+  {
+    "name": "Snow Wrap Shotgun",
+    "id": "254",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Snow_Wrap_Shotgun.png"
+  },
+  {
+    "name": "Halloween Shotgun",
+    "id": "255",
+    "value": "2,500",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Halloween_Shotgun.png"
+  },
+  {
+    "name": "Luck Shotgun",
+    "id": "256",
+    "value": "2,400",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Luck_Shotgun.png"
+  },
+  {
+    "name": "Inferno Shotgun",
+    "id": "257",
+    "value": "2,300",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Inferno_Shotgun.png"
+  },
+  {
+    "name": "Kitty Shotgun",
+    "id": "258",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Kitty_Shotgun.png"
+  },
+  {
+    "name": "Valentine Shotgun",
+    "id": "259",
+    "value": "2,000",
+    "demand": "Low",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Valentine_Shotgun.png"
+  },
+  {
+    "name": "Fish Shotgun",
+    "id": "260",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Fish_Shotgun.png"
+  },
+  {
+    "name": "Red Skull Shotgun",
+    "id": "261",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Skull_Shotgun.png"
+  },
+  {
+    "name": "Blue Wrap Shotgun",
+    "id": "262",
+    "value": "2,000",
+    "demand": "Low",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Blue_Wrap_Shotgun.png"
+  },
+  {
+    "name": "Tact Shotgun",
+    "id": "263",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Tact_Shotgun.png"
+  },
+  {
+    "name": "Patriot Shotgun",
+    "id": "264",
+    "value": "2,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Patriot_Shotgun.png"
+  },
+  {
+    "name": "Shadow Shotgun",
+    "id": "265",
+    "value": "1,950",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Shadow_Shotgun.png"
+  },
+  {
+    "name": "Icey Shotgun",
+    "id": "266",
+    "value": "1,500",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Icey_Shotgun.png"
+  },
+  {
+    "name": "Red Tiger Shotgun",
+    "id": "267",
+    "value": "1,500",
+    "demand": "Low",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Tiger_Shotgun.png"
+  },
+  {
+    "name": "Glassy Shotgun",
+    "id": "268",
+    "value": "1,500",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Glassy_Shotgun.png"
+  },
+  {
+    "name": "Hero Shotgun",
+    "id": "269",
+    "value": "1,500",
+    "demand": "Low",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Hero_Shotgun.png"
+  },
+  {
+    "name": "Rainbow Shotgun",
+    "id": "270",
+    "value": "1,000",
+    "demand": "Low",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Rainbow_Shotgun.png"
+  },
+  {
+    "name": "Gold Glory Shotgun",
+    "id": "271",
+    "value": "1,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Gold_Glory_Shotgun.png"
+  },
+  {
+    "name": "Red Death Shotgun",
+    "id": "272",
+    "value": "1,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Death_Shotgun.png"
+  },
+  {
+    "name": "Biohazard Shotgun",
+    "id": "273",
+    "value": "1,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Biohazard_Shotgun.png"
+  },
+  {
+    "name": "Black and White Shotgun",
+    "id": "274",
+    "value": "1,000",
+    "demand": "Low",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Black_and_White_Shotgun.png"
+  },
+  {
+    "name": "Pink Fuchsia Shotgun",
+    "id": "275",
+    "value": "1,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Pink_Fuchsia_Shotgun.png"
+  },
+  {
+    "name": "Matrix Shotgun",
+    "id": "276",
+    "value": "1,000",
+    "demand": "Normal",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Matrix_Shotgun.png"
+  },
+  {
+    "name": "Purple Yellow Wrap Shotgun",
+    "id": "277",
+    "value": "100",
+    "demand": "Terrible",
+    "category": "Shotgun",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Purple_Yellow_Wrap_Shotgun.png"
+  },
+  {
+    "name": "Galatic Revolver",
+    "id": "278",
+    "value": "3,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Galactic_Revolver.png"
+  },
+  {
+    "name": "Red Death DB",
+    "id": "279",
+    "value": "1,500",
+    "demand": "Normal",
+    "category": "DB",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Death_Double_Barrel.png"
+  },
+  {
+    "name": "Red Death Revolver",
+    "id": "280",
+    "value": "1,500",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Red_Death_Revolver.png"
+  },
+  {
+    "name": "Icey Revolver",
+    "id": "281",
+    "value": "1,800",
+    "demand": "Normal",
+    "category": "Revolver",
+    "image": "https://cdn.nookazon.com/dahood/Skins/Icey_Revolver.png"                                                      
+  }
+]
